@@ -16,5 +16,3 @@ price = [7,8,5,2,16,20]
 maxProfit_value = findmaxProfit(price)
 print(maxProfit_value)
 
-
-
